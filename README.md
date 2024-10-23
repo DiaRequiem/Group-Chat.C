@@ -1,2 +1,4 @@
 # Group-Chat.C
-Group chat running on terminal
+
+Meu projeto primeiro em C envolvendo sockets;
+Estudo de redes e segurança;
